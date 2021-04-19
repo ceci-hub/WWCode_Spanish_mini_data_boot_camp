@@ -1,3 +1,5 @@
+Este documento tiene por objetivo traducir al español el mini data camp del 2019. Las autoras del documento son de  Women Who Code
+
 # WWCode_Spanish
 Traslation of Main Boot camp @WWCodeDataScience
 
